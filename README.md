@@ -218,19 +218,15 @@ GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhavkannank&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madhavkannank&theme=radical" height="170" alt="GitHub Stats">
 
   
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavkannank&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhavkannank&theme=radical" height="170" alt="Top Languages">
 
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavkannank&theme=radical&hide_border=true" width="88%" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Madhavkannank&theme=flat&no-frame=true&column=6&margin-w=12" width="90%" alt="GitHub Trophies">
 
 </div>
 
